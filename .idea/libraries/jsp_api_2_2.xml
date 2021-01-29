@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jsp-api-2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/New folder/jsp-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/New folder/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/New folder/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/New folder/servlet-api-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
